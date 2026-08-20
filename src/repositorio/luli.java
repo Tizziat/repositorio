@@ -9,7 +9,6 @@ package repositorio;
  *
  * @author Luly2
  */
-public class lu {
-   
-    private String nombre;
+public class luli {
+    private int edad = 19;
 }
