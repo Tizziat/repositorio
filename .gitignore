@@ -1,0 +1,18 @@
+# Compilación de Java
+*.class
+*.jar
+*.war
+*.ear
+/build/
+/dist/
+
+# Configuración local de NetBeans
+nbproject/private/
+nbproject/project.fragment
+nbproject/build-impl.xml-template
+.nb-gradle/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
