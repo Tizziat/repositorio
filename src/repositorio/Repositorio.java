@@ -12,8 +12,7 @@ public class Repositorio {
         
         System.out.println("valentinz");
         
-        System.out.println("segunda prueba vale");
-        System.out.println("segunda prueba tizi");
+        System.out.println("LuAstudillo");
         
     }
     
