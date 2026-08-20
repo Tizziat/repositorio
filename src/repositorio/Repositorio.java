@@ -16,6 +16,9 @@ public class Repositorio {
         
        
         System.out.println(":/");
+        
+        
+        System.out.println("prueba .gitignore");
     }
     
 }
