@@ -5,7 +5,7 @@
 *.ear
 /build/
 /dist/
-
+nbproject/private/
 # Configuración local de NetBeans
 nbproject/private/
 nbproject/project.fragment
